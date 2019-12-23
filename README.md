@@ -8,10 +8,5 @@ Improving access to ride-sharing service and determining the affordability for u
 
 #### Report
 
-By comparing the average fare per rides between each city type, rural cities have highest average fare per ride than suburban and urban by around four dollars and 10 dollars, respectively.
-For the column of average fare per driver, rural cities also perform well than suburban and urban cities by 40% and 230%. The reason is that the rides and drivers count of rural cities, significantly lower than urban and suburban cities. It leads to average values greater than urban and suburban.
+The data displayed in the DataFrame shows us that rural cities have highest average fare per ride than suburban and urban by around 4 dollars and 10 dollars, respectively. When comparing average fare per driver, rural cities have better higher fares than suburban and urban cities by 40% and 230%. This is most likely due to the fact that there are significantly less rural rides and drives when compared to rides and drivers in urban and suburban cities. The multiple-line charts showcases the total fare per city type changes by times. The X axis shows date from 1/1/2019 to 4/28/2019, and total fare in Y axis. The urban line shows that there is increased traffic during the months of March and mid-April. The suburban line shows that there is increased traffic during mid-February. The rural line peaks in late February and erly April. Overall, urban cities have highest total fares all the time at just above $2500 at its peak, and rural cities are lowest all over time at just under $500 at its peak. 
 
-Multiple-Line Plot conclusion:
-This multiple-line charts showcases the total fare per city type changes by times. The X axis shows date from 1/1/2019 to 4/28/2019, and total fare in Y axis. In that line chart, Urban cities have highest total fares all the time, and Rural cities are lowest all over time. Suburban's line is in the middle.
-
-Furthermore, the urban's line shows there are several peaks in March and April. At the same time, the line of rural shows some correlation to Urban's line. For example in the first week of March, urban's total fares are over 2,500 dollars. In parallel to that, rural's line reaches the lowest point, less than 360 dollars.
